@@ -1,4 +1,4 @@
-[TiddlyWiki](https://ahsha98.github.io/tw)
+[TiddlyWiki](https://ahsha98.github.io/tWIKI)
 
 最近要试一下使用GitHub和TiddlyWiki构建知识库。
 
